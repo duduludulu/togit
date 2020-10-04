@@ -1,5 +1,5 @@
 ## 技术栈
-前端：vue2 + vuex + vue-router + vue-cli + less + axios
+前端：vue2 + vuex + vue-router + vue-cli + less + axios；
 后端：thinkJS + MySQL
 
 ## 源资源
@@ -74,6 +74,6 @@ npm install
 npm run serve (Compiles and hot-reloads for development)
 npm run build (Compiles and minifies for production)
 ```
-一般通过http://localhost:8080访问页面
-### API接口文件
-assets/config/api.js
+一般通过http://localhost:8080 访问页面
++ API接口文件
+  assets/config/api.js
